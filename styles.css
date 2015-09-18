@@ -1,0 +1,63 @@
+
+.btnStyle{
+background-color: black;
+color: white;
+letter-spacing: 1px;
+font-family: verdana;
+font-size: 20px;
+padding:15px, 15px;
+margin: 15px 21px;
+width: 95px;
+}
+
+/*.btnStyleRefresh{
+width: 145px;
+background-color: black;
+color: white;
+letter-spacing: 1px;
+font-family: verdana;
+font-size: 20px;
+padding:15px, 15px;
+margin: 15px 21px;
+width: 95px;
+position:absolute;
+bottom: 35px;
+right:110px;
+}*/
+
+.groupButtons{
+	text-align: center;
+
+}
+.jumbotron{
+	background-color: #009999;
+	color:white;
+	padding-top: 19px;
+	padding-bottom: 23px;
+}
+h1{
+	font-family: georgia;
+	font-style: italic;
+	font-weight: bolder;
+	text-align: center;
+}
+li{
+	font: 20px verdana;
+	font-weight: bold;
+	list-style: none;
+	color: #009999;
+}
+ul{
+	font: 30px verdana;
+	font-weight: bold;
+	display:inline-block;
+	vertical-align: text-top;
+	color: black;
+
+}
+
+
+.listGroups{
+margin: 0 auto;
+width: 80%;
+}
